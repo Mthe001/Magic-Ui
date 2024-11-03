@@ -8,6 +8,7 @@ const Home = () => {
     return (
 
         <div className="text-white">
+
             <Header></Header>
             <PricingPage></PricingPage>
 

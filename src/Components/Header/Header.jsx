@@ -6,7 +6,6 @@ import TrustedCompany from "../TrustedCompany/TrustedCompany";
 const Header = () => {
     return (
         <div>
-            {/* Sticky Navbar with Blur */}
             <div className="bg-black bg-opacity-60 backdrop-blur-md sticky top-0 z-50 flex gap-4 p-1 m-2 text-white justify-between w-[90%] mx-auto rounded-lg shadow-md">
                 <NavLink to="/" className="font-semibold text-lg">Magic UI</NavLink>
 
@@ -21,13 +20,15 @@ const Header = () => {
                 </div>
             </div>
 
-            {/* Content Sections */}
-            <div>
-                <hr />
+
+            <div className="divider">
+
             </div>
+
             <TextTitle />
             <ChartPart />
             <TrustedCompany />
+
         </div>
     );
 };

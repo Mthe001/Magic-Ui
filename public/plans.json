@@ -1,157 +1,155 @@
-{
-  "plans": [
-    {
-      "id": 1,
-      "name": "Free",
-      "description": "A free plan for personal projects and limited use",
-      "price": 0,
-      "features": [
-        "Basic AI tools",
-        "Community support",
-        "1 project limit",
-        "Limited analytics"
-      ],
-      "path": "/plans/free",
-      "details_path": "/plans/free/details"
-    },
-    {
-      "id": 2,
-      "name": "Starter",
-      "description": "A budget-friendly plan for individual users",
-      "price": 5,
-      "features": [
-        "AI-powered analytics",
-        "Email support",
-        "3 projects limit",
-        "Access to basic AI tools"
-      ],
-      "path": "/plans/starter",
-      "details_path": "/plans/starter/details"
-    },
-    {
-      "id": 3,
-      "name": "Basic",
-      "description": "A basic plan for startups and individual users",
-      "price": 10,
-      "features": [
-        "AI-powered analytics",
-        "Basic support",
-        "5 projects limit",
-        "Access to basic AI tools"
-      ],
-      "path": "/plans/basic",
-      "details_path": "/plans/basic/details"
-    },
-    {
-      "id": 4,
-      "name": "Standard",
-      "description": "An enhanced plan for freelancers and small teams",
-      "price": 15,
-      "features": [
-        "AI-powered analytics",
-        "Priority email support",
-        "10 projects limit",
-        "Access to basic AI tools",
-        "Customizable dashboards"
-      ],
-      "path": "/plans/standard",
-      "details_path": "/plans/standard/details"
-    },
-    {
-      "id": 5,
-      "name": "Premium",
-      "description": "A premium plan for growing businesses",
-      "price":20,
-      "features": [
-        "Advanced AI insights",
-        "Priority support",
-        "Unlimited projects",
-        "Access to all AI tools",
-        "Custom integrations"
-      ],
-      "path": "/plans/premium",
-      "details_path": "/plans/premium/details"
-    },
-    {
-      "id": 6,
-      "name": "Professional",
-      "description": "A plan designed for consultants and small agencies",
-      "price": 30,
-      "features": [
-        "Advanced analytics",
-        "Phone and email support",
-        "Unlimited projects",
-        "Access to advanced AI tools",
-        "Custom integrations",
-        "Collaborative workspace"
-      ],
-      "path": "/plans/professional",
-      "details_path": "/plans/professional/details"
-    },
-    {
-      "id": 7,
-      "name": "Business",
-      "description": "A robust plan for established businesses",
-      "price": 40,
-      "features": [
-        "Advanced AI insights",
-        "24/7 support",
-        "Unlimited projects",
-        "Access to all AI tools",
-        "Team management features",
-        "Enhanced security compliance"
-      ],
-      "path": "/plans/business",
-      "details_path": "/plans/business/details"
-    },
-    {
-      "id": 8,
-      "name": "Enterprise",
-      "description": "An enterprise plan with advanced features for large organizations",
-      "price": 50,
-      "features": [
-        "Custom AI solutions",
-        "24/7 dedicated support",
-        "Unlimited projects",
-        "Access to all AI tools",
-        "Custom integrations",
-        "Data security and compliance"
-      ],
-      "path": "/plans/enterprise",
-      "details_path": "/plans/enterprise/details"
-    },
-    {
-      "id": 9,
-      "name": "Ultimate",
-      "description": "The ultimate plan with all features for industry leaders",
-      "price": 80,
-      "features": [
-        "Bespoke AI development",
-        "White-glove support",
-        "Unlimited projects",
-        "Priority access to new AI tools",
-        "Custom integrations",
-        "Highest data security and compliance"
-      ],
-      "path": "/plans/ultimate",
-      "details_path": "/plans/ultimate/details"
-    },
-    {
-      "id": 10,
-      "name": "Elite",
-      "description": "A specialized plan for top enterprises requiring custom AI development",
-      "price":150,
-      "features": [
-        "Personalized AI development",
-        "Dedicated account manager",
-        "Unlimited projects",
-        "Priority access to beta features",
-        "Custom integrations",
-        "Highest level of data compliance and encryption",
-        "On-site support options"
-      ],
-      "path": "/plans/elite",
-      "details_path": "/plans/elite/details"
-    }
-  ]
-}
+[
+  {
+    "planId": 1,
+    "planName": "Free",
+    "description": "A free plan for personal projects and limited use",
+    "price": 0,
+    "features": [
+      "Basic AI tools",
+      "Community support",
+      "1 project limit",
+      "Limited analytics"
+    ],
+    "path": "/plans/free",
+    "detailsPath": "/plans/free/details"
+  },
+  {
+    "planId": 2,
+    "planName": "Starter",
+    "description": "A budget-friendly plan for individual users",
+    "price": 5,
+    "features": [
+      "AI-powered analytics",
+      "Email support",
+      "3 projects limit",
+      "Access to basic AI tools"
+    ],
+    "path": "/plans/starter",
+    "detailsPath": "/plans/starter/details"
+  },
+  {
+    "planId": 3,
+    "planName": "Basic",
+    "description": "A basic plan for startups and individual users",
+    "price": 10,
+    "features": [
+      "AI-powered analytics",
+      "Basic support",
+      "5 projects limit",
+      "Access to basic AI tools"
+    ],
+    "path": "/plans/basic",
+    "detailsPath": "/plans/basic/details"
+  },
+  {
+    "planId": 4,
+    "planName": "Standard",
+    "description": "An enhanced plan for freelancers and small teams",
+    "price": 15,
+    "features": [
+      "AI-powered analytics",
+      "Priority email support",
+      "10 projects limit",
+      "Access to basic AI tools",
+      "Customizable dashboards"
+    ],
+    "path": "/plans/standard",
+    "detailsPath": "/plans/standard/details"
+  },
+  {
+    "planId": 5,
+    "planName": "Premium",
+    "description": "A premium plan for growing businesses",
+    "price": 20,
+    "features": [
+      "Advanced AI insights",
+      "Priority support",
+      "Unlimited projects",
+      "Access to all AI tools",
+      "Custom integrations"
+    ],
+    "path": "/plans/premium",
+    "detailsPath": "/plans/premium/details"
+  },
+  {
+    "planId": 6,
+    "planName": "Professional",
+    "description": "A plan designed for consultants and small agencies",
+    "price": 30,
+    "features": [
+      "Advanced analytics",
+      "Phone and email support",
+      "Unlimited projects",
+      "Access to advanced AI tools",
+      "Custom integrations",
+      "Collaborative workspace"
+    ],
+    "path": "/plans/professional",
+    "detailsPath": "/plans/professional/details"
+  },
+  {
+    "planId": 7,
+    "planName": "Business",
+    "description": "A robust plan for established businesses",
+    "price": 40,
+    "features": [
+      "Advanced AI insights",
+      "24/7 support",
+      "Unlimited projects",
+      "Access to all AI tools",
+      "Team management features",
+      "Enhanced security compliance"
+    ],
+    "path": "/plans/business",
+    "detailsPath": "/plans/business/details"
+  },
+  {
+    "planId": 8,
+    "planName": "Enterprise",
+    "description": "An enterprise plan with advanced features for large organizations",
+    "price": 50,
+    "features": [
+      "Custom AI solutions",
+      "24/7 dedicated support",
+      "Unlimited projects",
+      "Access to all AI tools",
+      "Custom integrations",
+      "Data security and compliance"
+    ],
+    "path": "/plans/enterprise",
+    "detailsPath": "/plans/enterprise/details"
+  },
+  {
+    "planId": 9,
+    "planName": "Ultimate",
+    "description": "The ultimate plan with all features for industry leaders",
+    "price": 80,
+    "features": [
+      "Bespoke AI development",
+      "White-glove support",
+      "Unlimited projects",
+      "Priority access to new AI tools",
+      "Custom integrations",
+      "Highest data security and compliance"
+    ],
+    "path": "/plans/ultimate",
+    "detailsPath": "/plans/ultimate/details"
+  },
+  {
+    "planId": 10,
+    "planName": "Elite",
+    "description": "A specialized plan for top enterprises requiring custom AI development",
+    "price": 150,
+    "features": [
+      "Personalized AI development",
+      "Dedicated account manager",
+      "Unlimited projects",
+      "Priority access to beta features",
+      "Custom integrations",
+      "Highest level of data compliance and encryption",
+      "On-site support options"
+    ],
+    "path": "/plans/elite",
+    "detailsPath": "/plans/elite/details"
+  }
+]

@@ -18,7 +18,7 @@ The ! @ # $ %
 - **DaisyUI**: A plugin for Tailwind CSS that provides ready-to-use components----->
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
-## Getting Started
+## Getting Started--->>
 
 ### Prerequisites
 

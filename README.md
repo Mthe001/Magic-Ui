@@ -15,7 +15,7 @@ The ! @ # $ %
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **DaisyUI**: A plugin for Tailwind CSS that provides ready-to-use components.
+- **DaisyUI**: A plugin for Tailwind CSS that provides ready-to-use components----->
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
 ## Getting Started

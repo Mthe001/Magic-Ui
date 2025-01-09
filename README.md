@@ -9,7 +9,7 @@ The ! @ # $ %
 
 - Display multiple subscription plans with detailed descriptions.
 - Toggle between monthly and yearly pricing for each plan------>
-- Animated transitions for a smooth user experience.
+- Animated transitions for a smooth user experience.------>>
 - Responsive design suitable for various screen sizes.........
 
 ## Technologies Used

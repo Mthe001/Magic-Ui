@@ -5,7 +5,7 @@
 The **Plans Subscription App** is a dynamic web application that allows users to view various subscription plans and switch between monthly and yearly pricing options. Built using React, this app utilizes DaisyUI for UI components, providing a modern and responsive design. The toggle feature allows users to easily switch between pricing models, enhancing user experience.---->>
 The ! @ # $ % 
 
-## Features
+## Features-update
 
 - Display multiple subscription plans with detailed descriptions.
 - Toggle between monthly and yearly pricing for each plan------>
